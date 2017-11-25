@@ -1,3 +1,13 @@
 h1 {
     color: green;
+    text-align: center;
+}
+h2 {
+    color: crimson;
+    font-style: italic
+    text-align: center;
+}
+p {
+    color: yellowgreen;
+    font-family: sans-serif;
 }
